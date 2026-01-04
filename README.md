@@ -1,8 +1,7 @@
 # ChipGPT Frontend
 
-<div align="center">
-  <img src="./docs/preview.png" alt="ChipGPT Interface Preview" width="800"/>
-</div>
+![Screenshot 2026-01-04 at 19 57 00](https://github.com/user-attachments/assets/701cca85-1398-4947-8312-c94713de39b6)
+
 
 ## Описание
 
